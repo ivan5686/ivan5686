@@ -1,4 +1,4 @@
-- 👋 Hola!,Soy @ivan5686
+- 👋 Hola!,Soy ivan5686
 - 👀 Estoy interesado en proyectos de desarrollo web, IA y programación
 - 🌱 Estoy interesado en aprender más lenguajes de programaciión y sobre todo en desarrollo de inteligencia artificial.
 - 💞️ Estoy buscando colaboradores que se envuelvan en el mundo de la IA
