@@ -3,7 +3,6 @@
 - 🌱 Estoy interesado en aprender más lenguajes de programaciión y sobre todo en desarrollo de inteligencia artificial.
 - 💞️ Estoy buscando colaboradores que se envuelvan en el mundo de la IA
 - 📫 Puedes encontrarme en Instagram, Discord, Facebook.
-- 😄 Pronouns: DAW
 - ⚡ Fun fact: si te atas una cuerda alrededor del dedo se te pone morado. by Nelson
 
 <!---
